@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with [Form Conductor](https://github.com/NaingAungLuu/form-conductor)
 
-- 👨‍💻 All of my projects are available at [github.com/NaingAungLuu](github.com/NaingAungLuu)
-
 - 📝 I regularly write articles on [blog.naingaungluu.me](blog.naingaungluu.me)
 
 - 💬 Ask me about **android, kotlin, and cloud**
@@ -36,8 +34,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/naingaungluu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naingaungluu" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naingaungluu&show_icons=true&locale=en&layout=compact" alt="naingaungluu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naingaungluu&show_icons=true&locale=en" alt="naingaungluu" /></p>
 
