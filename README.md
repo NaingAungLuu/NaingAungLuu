@@ -21,6 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Declarative Form Validation on Jetpack Compose](https://naingaungluu.medium.com/declarative-form-validation-on-jetpack-compose-e87c0d97c802?source=rss-5b10f050b871------2)
 - [Implementing Dynamic Localization on Android](https://betterprogramming.pub/dynamic-localization-on-android-be0b69f73be4?source=rss-5b10f050b871------2)
+- [Stateful Data on Android with sealed classes and Kotlin Flow &lpar;in Burmese&rpar;](https://naingaungluu.medium.com/stateful-data-on-android-with-sealed-classes-and-kotlin-flow-in-burmese-fcb56241d456?source=rss-5b10f050b871------2)
 - [Stateful Data on Android with sealed classes and Kotlin Flow](https://naingaungluu.medium.com/stateful-data-on-android-with-sealed-classes-and-kotlin-flow-33e2537ccf55?source=rss-5b10f050b871------2)
 <!-- BLOG-POST-LIST:END -->
 
